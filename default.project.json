@@ -1,0 +1,6 @@
+{
+	"name": "Name",
+	"tree": {
+		"$path": "out"
+	}
+}
